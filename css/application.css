@@ -688,14 +688,14 @@ nav .navContainer .navRight ul li a{
     margin-bottom: 20px;
 }
 
-footer {
-    position: relative;
-    width: 100%;
-    height: 200px;
-    padding: 30px 0;
-    box-sizing: border-box;
-    background: #282a2b;
-}
+/*footer {*/
+    /*position: relative;*/
+    /*width: 100%;*/
+    /*height: 200px;*/
+    /*padding: 30px 0;*/
+    /*box-sizing: border-box;*/
+    /*background: #282a2b;*/
+/*}*/
 
 /*footer .footerContainer {*/
     /*position: relative;*/
