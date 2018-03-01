@@ -443,10 +443,58 @@ function loadProperties(str) {
       $('#qqLink5').html($.i18n.prop('string_qqLink5'));
       $('#qqLink6').html($.i18n.prop('string_qqLink6'));
 
-
       $('#footerEmail2').html($.i18n.prop('string_footerEmail2'));
       $('#footerEmail3').html($.i18n.prop('string_footerEmail3'));
       $('#footerEmail4').html($.i18n.prop('string_footerEmail4'));
+
+      $('#getStartedText1').html($.i18n.prop('string_getStartedText1'));
+      $('#getStartedText2').html($.i18n.prop('string_getStartedText2'));
+      $('#getStartedText3').html($.i18n.prop('string_getStartedText3'));
+      $('#getStartedText4').html($.i18n.prop('string_getStartedText4'));
+      $('#getStartedText5').html($.i18n.prop('string_getStartedText5'));
+      $('#getStartedText6').html($.i18n.prop('string_getStartedText6'));
+      $('#getStartedText7').html($.i18n.prop('string_getStartedText7'));
+      $('#getStartedText8').html($.i18n.prop('string_getStartedText8'));
+      $('#getStartedText9').html($.i18n.prop('string_getStartedText9'));
+      $('#getStartedText10').html($.i18n.prop('string_getStartedText10'));
+      $('#getStartedText11').html($.i18n.prop('string_getStartedText11'));
+      $('#getStartedText12').html($.i18n.prop('string_getStartedText12'));
+      $('#getStartedText13').html($.i18n.prop('string_getStartedText13'));
+      $('#getStartedText14').html($.i18n.prop('string_getStartedText14'));
+      $('#getStartedText15').html($.i18n.prop('string_getStartedText15'));
+      $('#getStartedText16').html($.i18n.prop('string_getStartedText16'));
+      $('#getStartedText17').html($.i18n.prop('string_getStartedText17'));
+      $('#getStartedText18').html($.i18n.prop('string_getStartedText18'));
+      $('#getStartedText19').html($.i18n.prop('string_getStartedText19'));
+      $('#getStartedText20').html($.i18n.prop('string_getStartedText20'));
+      $('#getStartedText21').html($.i18n.prop('string_getStartedText21'));
+      $('#getStartedText22').html($.i18n.prop('string_getStartedText22'));
+      $('#getStartedText23').html($.i18n.prop('string_getStartedText23'));
+      $('#getStartedText24').html($.i18n.prop('string_getStartedText24'));
+      $('#getStartedText25').html($.i18n.prop('string_getStartedText25'));
+      $('#getStartedText26').html($.i18n.prop('string_getStartedText26'));
+      $('#getStartedText27').html($.i18n.prop('string_getStartedText27'));
+      $('#getStartedText28').html($.i18n.prop('string_getStartedText28'));
+      $('#getStartedText29').html($.i18n.prop('string_getStartedText29'));
+      $('#getStartedText30').html($.i18n.prop('string_getStartedText30'));
+      $('#getStartedText31').html($.i18n.prop('string_getStartedText31'));
+      $('#getStartedText32').html($.i18n.prop('string_getStartedText32'));
+      $('#getStartedText33').html($.i18n.prop('string_getStartedText33'));
+      $('#getStartedText34').html($.i18n.prop('string_getStartedText34'));
+      $('#getStartedText35').html($.i18n.prop('string_getStartedText35'));
+      $('#getStartedText36').html($.i18n.prop('string_getStartedText36'));
+      $('#getStartedText37').html($.i18n.prop('string_getStartedText37'));
+      $('#getStartedText38').html($.i18n.prop('string_getStartedText38'));
+      $('#getStartedText39').html($.i18n.prop('string_getStartedText39'));
+      $('#getStartedText40').html($.i18n.prop('string_getStartedText40'));
+      $('#getStartedText41').html($.i18n.prop('string_getStartedText41'));
+      $('#getStartedText42').html($.i18n.prop('string_getStartedText42'));
+      $('#getStartedText43').html($.i18n.prop('string_getStartedText43'));
+      $('#getStartedText44').html($.i18n.prop('string_getStartedText44'));
+      $('#getStartedText45').html($.i18n.prop('string_getStartedText45'));
+      $('#getStartedText46').html($.i18n.prop('string_getStartedText46'));
+      $('#getStartedText47').html($.i18n.prop('string_getStartedText47'));
+      $('#getStartedText48').html($.i18n.prop('string_getStartedText48'));
 
     }
   });
