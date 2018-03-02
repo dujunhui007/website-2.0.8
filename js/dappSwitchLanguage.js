@@ -98,6 +98,7 @@ $(function () {
     $(".getContainer .getMain .mainRight .function3").attr("src", "images/function31.png");
     $(".getContainer .getMain .mainRight .function4").attr("src", "images/function41.png");
     $(".getContainer .getMain .mainRight .function5").attr("src", "images/function51.png");
+    $(".getContainer .getMain .mainRight .award1").attr("src", "images/award11.png");
     if(screen.width < 1910){
       $("#dreamWorldLinks").css("bottom","15px");
     }
@@ -124,6 +125,7 @@ $(function () {
     $(".getContainer .getMain .mainRight .function3").attr("src", "images/function3.png");
     $(".getContainer .getMain .mainRight .function4").attr("src", "images/function4.png");
     $(".getContainer .getMain .mainRight .function5").attr("src", "images/function5.png");
+    $(".getContainer .getMain .mainRight .award1").attr("src", "images/award1.png");
     if(screen.width < 1910){
       $("#dreamWorldLinks").css("bottom","15px");
     }

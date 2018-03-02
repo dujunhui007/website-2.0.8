@@ -216,6 +216,18 @@ $(document).ready(function () {
         $('#dappNav9').html($.i18n.prop('string_dappNav9'));
         $('#dappNav10').html($.i18n.prop('string_dappNav10'));
 
+        $('#nav_home').html($.i18n.prop('string_navhome'));
+        $('#dappNavHome').html($.i18n.prop('string_dappNavHome'));
+        $('#nav_introduction').html($.i18n.prop('string_navintroduction'));
+        $('#nav_dapps').html($.i18n.prop('string_navdapps'));
+        $('#nav_features').html($.i18n.prop('string_navfeatures'));
+        $('#nav_advantages').html($.i18n.prop('string_navadvantages'));
+        $('#nav_scenarios').html($.i18n.prop('string_navscenarios'));
+        $('#nav_downloads').html($.i18n.prop('string_navdownloads'));
+        $('#nav_timeLine').html($.i18n.prop('string_navtimeLine'));
+        $('#nav_partners').html($.i18n.prop('string_navpartners'));
+        $('#nav_links').html($.i18n.prop('string_navlinks'));
+
         $('#qqLink1').html($.i18n.prop('string_qqLink1'));
         $('#qqLink2').html($.i18n.prop('string_qqLink2'));
         $('#qqLink3').html($.i18n.prop('string_qqLink3'));
@@ -223,6 +235,9 @@ $(document).ready(function () {
         $('#qqLink5').html($.i18n.prop('string_qqLink5'));
         $('#qqLink6').html($.i18n.prop('string_qqLink6'));
 
+        $('#footerLink1').html($.i18n.prop('string_footerLink1'));
+        $('#footerLink2').html($.i18n.prop('string_footerLink2'));
+        $('#footerLink3').html($.i18n.prop('string_footerLink3'));
 
         $('#footerEmail2').html($.i18n.prop('string_footerEmail2'));
         $('#footerEmail3').html($.i18n.prop('string_footerEmail3'));

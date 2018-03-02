@@ -214,6 +214,10 @@ nav {
     max-width: 800px;
 }
 
+.getContainer .getMain .mainRight a:hover{
+    color: #ffa81c;
+}
+
 .getContainer .getMain .mainRight a {
     display: block;
     margin: 10px 0;
