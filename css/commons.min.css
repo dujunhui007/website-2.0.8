@@ -18,7 +18,7 @@
     overflow-y: scroll;
 }
 
-#timeLine .shadeScrollBar{
+#timeLine .shadeScrollBar {
     width: 18px;
     height: 1000px;
     position: absolute;
@@ -93,7 +93,30 @@ nav .navContainer .navRight ul li a {
     padding-right: 6px;
 }
 
-/*switch language begin*/
+nav .navContainer .navRight ul .navlinks {
+
+    vertical-align: top;
+}
+
+nav .navContainer .navRight ul .navlinks a {
+    display: block;
+}
+
+nav .navContainer .navRight ul .navlinks:hover a:nth-child(2){
+    display: block;
+    text-align: left;
+    background: #fff;
+}
+
+nav .navContainer .navRight ul .navlinks a:nth-child(2){
+    display: none;
+}
+
+nav .navContainer .navRight ul .navlinks:hover a:nth-child(1){
+   border-bottom: 1px solid #ccc;
+}
+
+    /*switch language begin*/
 
 .switchLanguageBtn {
     /*display: inline-block;*/
@@ -264,7 +287,7 @@ footer .footerLeft .footerWb span {
 }
 
 footer .footerRight a:hover span {
-    color:#f1bb50;
+    color: #f1bb50;
 }
 
 footer .footerRight a:hover i {
@@ -277,12 +300,13 @@ footer .footerRight a i {
     font-family: aschFont;
     line-height: 18px;
 }
+
 footer .footerRight a span {
     color: #cdcdcd;
 }
 
 footer .footerRight a {
-    
+
     display: block;
     width: 330px;
     overflow: hidden;
