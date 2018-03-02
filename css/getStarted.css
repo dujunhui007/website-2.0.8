@@ -210,6 +210,10 @@ nav {
     border: 1px solid #ccc;
 }
 
+.getContainer .getMain .mainRight .pcWallet img{
+    max-width: 800px;
+}
+
 .getContainer .getMain .mainRight a {
     display: block;
     margin: 10px 0;

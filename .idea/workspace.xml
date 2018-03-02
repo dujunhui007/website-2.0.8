@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2009c64-8673-4ad3-978a-886692dd99db" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/function11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/function21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/function31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/function41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/function51.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pc11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pc21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pc31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pc41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pc51.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/web21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/web31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/web41.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/web11.png" afterPath="$PROJECT_DIR$/images/web11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/getStarted.css" afterPath="$PROJECT_DIR$/css/getStarted.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/getStarted.html" afterPath="$PROJECT_DIR$/getStarted.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/dappSwitchLanguage.js" afterPath="$PROJECT_DIR$/js/dappSwitchLanguage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/i18n/strings_en.properties" afterPath="$PROJECT_DIR$/resources/i18n/strings_en.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/i18n/strings_zh-CN.properties" afterPath="$PROJECT_DIR$/resources/i18n/strings_zh-CN.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,13 +38,14 @@
       <file leaf-file-name="getStarted.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getStarted.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-14">
-              <caret line="289" column="101" lean-forward="false" selection-start-line="289" selection-start-column="101" selection-end-line="289" selection-end-column="101" />
+            <state relative-caret-position="286">
+              <caret line="220" column="60" lean-forward="false" selection-start-line="220" selection-start-column="51" selection-end-line="220" selection-end-column="60" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="e#3166#3172#0" expanded="true" />
                 <element signature="e#3173#3179#0" expanded="true" />
+                <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
@@ -49,28 +65,28 @@
       <file leaf-file-name="strings_zh-CN.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/i18n/strings_zh-CN.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="342" column="77" lean-forward="false" selection-start-line="342" selection-start-column="77" selection-end-line="342" selection-end-column="77" />
+            <state relative-caret-position="252">
+              <caret line="302" column="34" lean-forward="false" selection-start-line="302" selection-start-column="34" selection-end-line="302" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dappSwitchLanguage.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dappSwitchLanguage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/dappSwitchLanguage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="513" column="70" lean-forward="false" selection-start-line="513" selection-start-column="70" selection-end-line="513" selection-end-column="70" />
+            <state relative-caret-position="256">
+              <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getStarted.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="getStarted.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/getStarted.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="420">
+              <caret line="215" column="0" lean-forward="true" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -94,14 +110,14 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/css/application.css" />
         <option value="$PROJECT_DIR$/css/commons.min.css" />
-        <option value="$PROJECT_DIR$/css/getStarted.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/indexSwitchLanguage.js" />
         <option value="$PROJECT_DIR$/js/application.js" />
-        <option value="$PROJECT_DIR$/getStarted.html" />
         <option value="$PROJECT_DIR$/resources/i18n/strings_en.properties" />
         <option value="$PROJECT_DIR$/resources/i18n/strings_zh-CN.properties" />
+        <option value="$PROJECT_DIR$/getStarted.html" />
         <option value="$PROJECT_DIR$/js/dappSwitchLanguage.js" />
+        <option value="$PROJECT_DIR$/css/getStarted.css" />
       </list>
     </option>
   </component>
@@ -151,18 +167,7 @@
             <path>
               <item name="website-2.0.8" type="b2602c69:ProjectViewProjectNode" />
               <item name="website-2.0.8" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website-2.0.8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website-2.0.8" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website-2.0.8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website-2.0.8" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="i18n" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,12 +217,12 @@
       <workItem from="1519702173044" duration="4151000" />
       <workItem from="1519786105480" duration="15075000" />
       <workItem from="1519808582191" duration="6427000" />
-      <workItem from="1519870609595" duration="22789000" />
+      <workItem from="1519870609595" duration="28573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48442000" />
+    <option name="totallyTimeSpent" value="54226000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,6 +278,7 @@
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#3166#3172#0" expanded="true" />
             <element signature="e#3173#3179#0" expanded="true" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -306,6 +312,7 @@
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#3166#3172#0" expanded="true" />
             <element signature="e#3173#3179#0" expanded="true" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -347,6 +354,7 @@
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#3166#3172#0" expanded="true" />
             <element signature="e#3173#3179#0" expanded="true" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -413,11 +421,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/pc1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/function1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -525,25 +528,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/getStarted.css">
+    <entry file="file://$PROJECT_DIR$/resources/i18n/strings_zh-CN.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="302" column="34" lean-forward="false" selection-start-line="302" selection-start-column="34" selection-end-line="302" selection-end-column="34" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getStarted.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="289" column="101" lean-forward="false" selection-start-line="289" selection-start-column="101" selection-end-line="289" selection-end-column="101" />
-          <folding>
-            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#3166#3172#0" expanded="true" />
-            <element signature="e#3173#3179#0" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -555,18 +544,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/i18n/strings_zh-CN.properties">
+    <entry file="file://$PROJECT_DIR$/images/web1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getStarted.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="342" column="77" lean-forward="false" selection-start-line="342" selection-start-column="77" selection-end-line="342" selection-end-column="77" />
-          <folding />
+        <state relative-caret-position="286">
+          <caret line="220" column="60" lean-forward="false" selection-start-line="220" selection-start-column="51" selection-end-line="220" selection-end-column="60" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#3166#3172#0" expanded="true" />
+            <element signature="e#3173#3179#0" expanded="true" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/web2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/web11.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pc11.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pc21.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/dappSwitchLanguage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="513" column="70" lean-forward="false" selection-start-line="513" selection-start-column="70" selection-end-line="513" selection-end-column="70" />
+        <state relative-caret-position="256">
+          <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/android1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/function11.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/function1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/getStarted.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="215" column="0" lean-forward="true" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
           <folding />
         </state>
       </provider>

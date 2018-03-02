@@ -83,6 +83,21 @@ $(function () {
     $(".switchLanguageBtn .btnContainer .btn2 .btnFlag2 img").attr("src", "images/china.png");
     $(".switchLanguageBtn .btnContainer .btn1  .btnText1").html("English");
     $(".switchLanguageBtn .btnContainer .btn2  .btnText2").html("中文简体");
+
+    $(".getContainer .getMain .mainRight .web1").attr("src", "images/web11.png");
+    $(".getContainer .getMain .mainRight .web2").attr("src", "images/web21.png");
+    $(".getContainer .getMain .mainRight .web3").attr("src", "images/web31.png");
+    $(".getContainer .getMain .mainRight .web4").attr("src", "images/web41.png");
+    $(".getContainer .getMain .mainRight .pc1").attr("src", "images/pc11.png");
+    $(".getContainer .getMain .mainRight .pc2").attr("src", "images/pc21.png");
+    $(".getContainer .getMain .mainRight .pc3").attr("src", "images/pc31.png");
+    $(".getContainer .getMain .mainRight .pc4").attr("src", "images/pc41.png");
+    $(".getContainer .getMain .mainRight .pc5").attr("src", "images/pc51.png");
+    $(".getContainer .getMain .mainRight .function1").attr("src", "images/function11.png");
+    $(".getContainer .getMain .mainRight .function2").attr("src", "images/function21.png");
+    $(".getContainer .getMain .mainRight .function3").attr("src", "images/function31.png");
+    $(".getContainer .getMain .mainRight .function4").attr("src", "images/function41.png");
+    $(".getContainer .getMain .mainRight .function5").attr("src", "images/function51.png");
     if(screen.width < 1910){
       $("#dreamWorldLinks").css("bottom","15px");
     }
@@ -94,6 +109,21 @@ $(function () {
     $(".switchLanguageBtn .btnContainer .btn2 .btnFlag2 img").attr("src", "images/uk.png");
     $(".switchLanguageBtn .btnContainer .btn1  .btnText1").html("中文简体");
     $(".switchLanguageBtn .btnContainer .btn2  .btnText2").html("English");
+
+    $(".getContainer .getMain .mainRight .web1").attr("src", "images/web1.png");
+    $(".getContainer .getMain .mainRight .web2").attr("src", "images/web2.png");
+    $(".getContainer .getMain .mainRight .web3").attr("src", "images/web3.png");
+    $(".getContainer .getMain .mainRight .web4").attr("src", "images/web4.png");
+    $(".getContainer .getMain .mainRight .pc1").attr("src", "images/pc1.png");
+    $(".getContainer .getMain .mainRight .pc2").attr("src", "images/pc2.png");
+    $(".getContainer .getMain .mainRight .pc3").attr("src", "images/pc3.png");
+    $(".getContainer .getMain .mainRight .pc4").attr("src", "images/pc4.png");
+    $(".getContainer .getMain .mainRight .pc5").attr("src", "images/pc5.png");
+    $(".getContainer .getMain .mainRight .function1").attr("src", "images/function1.png");
+    $(".getContainer .getMain .mainRight .function2").attr("src", "images/function2.png");
+    $(".getContainer .getMain .mainRight .function3").attr("src", "images/function3.png");
+    $(".getContainer .getMain .mainRight .function4").attr("src", "images/function4.png");
+    $(".getContainer .getMain .mainRight .function5").attr("src", "images/function5.png");
     if(screen.width < 1910){
       $("#dreamWorldLinks").css("bottom","15px");
     }
