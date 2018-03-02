@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2009c64-8673-4ad3-978a-886692dd99db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/function11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/function21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/function31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/function41.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/function51.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pc11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pc21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pc31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pc41.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pc51.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/web21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/web31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/web41.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/web11.png" afterPath="$PROJECT_DIR$/images/web11.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/getStarted.css" afterPath="$PROJECT_DIR$/css/getStarted.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/getStarted.html" afterPath="$PROJECT_DIR$/getStarted.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/dappSwitchLanguage.js" afterPath="$PROJECT_DIR$/js/dappSwitchLanguage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/i18n/strings_zh-CN.properties" afterPath="$PROJECT_DIR$/resources/i18n/strings_zh-CN.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/i18n/strings_en.properties" afterPath="$PROJECT_DIR$/resources/i18n/strings_en.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,8 +21,8 @@
       <file leaf-file-name="getStarted.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getStarted.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="220" column="60" lean-forward="false" selection-start-line="220" selection-start-column="51" selection-end-line="220" selection-end-column="60" />
+            <state relative-caret-position="226">
+              <caret line="218" column="20" lean-forward="true" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -52,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings_en.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="strings_en.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/i18n/strings_en.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="325" column="88" lean-forward="false" selection-start-line="325" selection-start-column="88" selection-end-line="325" selection-end-column="88" />
+            <state relative-caret-position="390">
+              <caret line="268" column="35" lean-forward="false" selection-start-line="268" selection-start-column="35" selection-end-line="268" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -82,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getStarted.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="getStarted.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/getStarted.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -113,11 +96,11 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/indexSwitchLanguage.js" />
         <option value="$PROJECT_DIR$/js/application.js" />
-        <option value="$PROJECT_DIR$/resources/i18n/strings_en.properties" />
         <option value="$PROJECT_DIR$/resources/i18n/strings_zh-CN.properties" />
         <option value="$PROJECT_DIR$/getStarted.html" />
         <option value="$PROJECT_DIR$/js/dappSwitchLanguage.js" />
         <option value="$PROJECT_DIR$/css/getStarted.css" />
+        <option value="$PROJECT_DIR$/resources/i18n/strings_en.properties" />
       </list>
     </option>
   </component>
@@ -217,12 +200,12 @@
       <workItem from="1519702173044" duration="4151000" />
       <workItem from="1519786105480" duration="15075000" />
       <workItem from="1519808582191" duration="6427000" />
-      <workItem from="1519870609595" duration="28573000" />
+      <workItem from="1519870609595" duration="30602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54226000" />
+    <option name="totallyTimeSpent" value="56255000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -536,32 +519,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/i18n/strings_en.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="325" column="88" lean-forward="false" selection-start-line="325" selection-start-column="88" selection-end-line="325" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/web1.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getStarted.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="220" column="60" lean-forward="false" selection-start-line="220" selection-start-column="51" selection-end-line="220" selection-end-column="60" />
-          <folding>
-            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#3166#3172#0" expanded="true" />
-            <element signature="e#3173#3179#0" expanded="true" />
-            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/web2.png">
@@ -611,6 +571,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="215" column="0" lean-forward="true" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getStarted.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="218" column="20" lean-forward="true" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#3166#3172#0" expanded="true" />
+            <element signature="e#3173#3179#0" expanded="true" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/i18n/strings_en.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="268" column="35" lean-forward="false" selection-start-line="268" selection-start-column="35" selection-end-line="268" selection-end-column="35" />
           <folding />
         </state>
       </provider>
