@@ -185,6 +185,7 @@
 
     .dappsContainer ul li .dappContainer .dappContainerRight .dappContainerRightContainer .dappContentLeft p{
         margin-top: 10px;
+        line-height: 22px;
     }
     .dappsContainer ul li .dappContainer .dappContainerRight .dappContainerRightContainer .dappContentLeft a{
         position: absolute;
