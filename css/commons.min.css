@@ -105,7 +105,7 @@ nav .navContainer .navRight ul .navlinks a {
 nav .navContainer .navRight ul .navlinks:hover a:nth-child(2){
     display: block;
     text-align: left;
-    background: #fff;
+    /*background: #fff;*/
 }
 
 nav .navContainer .navRight ul .navlinks a:nth-child(2){
