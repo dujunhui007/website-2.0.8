@@ -129,7 +129,7 @@ nav {
 
 .getContainer .getMain .mainRight {
     width: calc(100% - 230px);
-    /*height: 1500px;*/
+    min-height: 700px;
     background: #fff;
     float: right;
     box-shadow: 0 0 10px #ccc;
@@ -210,11 +210,11 @@ nav {
     border: 1px solid #ccc;
 }
 
-.getContainer .getMain .mainRight .pcWallet img{
+.getContainer .getMain .mainRight .pcWallet img {
     max-width: 800px;
 }
 
-.getContainer .getMain .mainRight a:hover{
+.getContainer .getMain .mainRight a:hover {
     color: #ffa81c;
 }
 
