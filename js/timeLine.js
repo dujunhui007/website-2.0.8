@@ -227,6 +227,7 @@ $(document).ready(function () {
         $('#nav_timeLine').html($.i18n.prop('string_navtimeLine'));
         $('#nav_partners').html($.i18n.prop('string_navpartners'));
         $('#nav_links').html($.i18n.prop('string_navlinks'));
+        $('#nav_tutorial').html($.i18n.prop('string_navtutorial'));
 
         $('#qqLink1').html($.i18n.prop('string_qqLink1'));
         $('#qqLink2').html($.i18n.prop('string_qqLink2'));
