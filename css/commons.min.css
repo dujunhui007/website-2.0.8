@@ -93,30 +93,53 @@ nav .navContainer .navRight ul li a {
     padding-right: 6px;
 }
 
-nav .navContainer .navRight ul .navlinks {
-
+nav .navContainer .navRight ul .navLinksContainer {
     vertical-align: top;
+    position: relative;
 }
 
-nav .navContainer .navRight ul .navlinks a {
+nav .navContainer .navRight ul .navLinksContainer:hover .navLinks {
+    opacity: 1;
+    top: 58px;
+}
+
+nav .navContainer .navRight ul .navLinksContainer .navLinks {
+    position: absolute;
+    opacity: 0;
+    width: 100%;
+    min-width: 100px;
+    height: 35px;
+    top: 50px;
+    left: 0px;
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+nav .navContainer .navRight ul .navLinksContainer .navLinks a:hover {
+    background: #e2840a;
+    color: #fff;
+}
+
+nav .navContainer .navRight ul .navLinksContainer .navLinks a {
     display: block;
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    background: #f29214;
+    color: #fff;
+    padding-right: 0px;
 }
 
-nav .navContainer .navRight ul .navlinks:hover a:nth-child(2){
-    display: block;
-    text-align: left;
-    /*background: #fff;*/
+nav .navContainer .navRight ul .navLinksContainer .navLinks a:nth-child(2):hover{
+    background: #e2840a;
 }
 
-nav .navContainer .navRight ul .navlinks a:nth-child(2){
-    display: none;
+nav .navContainer .navRight ul .navLinksContainer .navLinks a:nth-child(2){
+    background:#f8a940 ;
 }
 
-nav .navContainer .navRight ul .navlinks:hover a:nth-child(1){
-   border-bottom: 1px solid #ccc;
-}
-
-    /*switch language begin*/
+/*switch language begin*/
 
 .switchLanguageBtn {
     /*display: inline-block;*/

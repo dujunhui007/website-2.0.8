@@ -81,24 +81,49 @@ $(document).ready(function () {
       }).mouseout(function () {
         $(this).css("color", "#000000")
       });
+      $("nav .navContainer .navRight ul .navLinksContainer").mouseover(function () {
+        $("nav .navContainer .navRight ul .navLinksContainer .navLinks").css("top", "76px")
+      }).mouseout(function () {
+        $("nav .navContainer .navRight ul .navLinksContainer .navLinks").css("top", "50px")
+      });
+      $(".btnContainer").mouseover(function () {
+        $(".btnContainer .btn2").css("top", "60px")
+      }).mouseout(function () {
+        $(".btnContainer .btn2").css("top", "34px")
+      });
+      $("nav .navContainer .navRight ul .navLinksContainer .navLinks a").css("color", "#ffffff").mouseover(function () {
+        $(this).css("color", "#ffffff")
+      }).mouseout(function () {
+        $(this).css("color", "#ffffff")
+      });
       $("nav").css({
         "background": "#fff",
         "box-shadow": "0 0 5px #ccc"
       });
-
-      // $("nav .navRight .downloadWhitePaper").addClass("downloadWhitePaperTwo").removeClass("downloadWhitePaperOne");
-      // $("nav .navLeft  .navLogo").addClass("replaceLogoOne").removeClass("replaceLogoTwo");
-      // $("nav .equalThan ").addClass("moreThan").removeClass("equalThan");
     } else {
       $(".btnContainer .btn1 span").css("color", "#fff");
       $(".switchLanguageBtn .btnContainer .sjx").css({
         "border-right": "2px solid #fff",
         "border-top": "2px solid #fff"
       });
-
       $("nav .navContainer .navLeft img").attr("src", "images/aschLogo2.png");
       $("nav .navContainer .navRight ul li a").css("color", "#ffffff").mouseover(function () {
         $(this).css("color", "#ffa81c")
+      }).mouseout(function () {
+        $(this).css("color", "#ffffff")
+      });
+      $("nav .navContainer .navRight ul .navLinksContainer").mouseover(function () {
+        $("nav .navContainer .navRight ul .navLinksContainer .navLinks").css("top", "58px")
+      }).mouseout(function () {
+        $("nav .navContainer .navRight ul .navLinksContainer .navLinks").css("top", "50px")
+      });
+      $(".btnContainer").mouseover(function () {
+        $(".btnContainer .btn2").css("top", "42px")
+      }).mouseout(function () {
+        $(".btnContainer .btn2").css("top", "34px")
+      });
+      $("nav .navContainer .navRight ul .navLinksContainer .navLinks a").css("color", "#ffffff").mouseover(function () {
+        $(this).css("color", "#ffffff")
       }).mouseout(function () {
         $(this).css("color", "#ffffff")
       });
@@ -106,18 +131,12 @@ $(document).ready(function () {
         "background": "transparent",
         "box-shadow": "0 0 0"
       });
-      // $("nav .navRight .downloadWhitePaper").addClass("downloadWhitePaperOne").removeClass("downloadWhitePaperTwo");
-      // // $("nav .navRight .downloadWhitePaper").css("color", "#1c49ae");
-      // $("nav .navLeft  .navLogo").addClass("replaceLogoTwo").removeClass("replaceLogoOne");
-      // $("nav .moreThan ").addClass("equalThan").removeClass("moreThan");
-
     }
   }),
 
     $(".homeLinks li").mousemove(function () {
       $(this).find(".rightLine").css("display", "none");
       $(this).prev().find(".rightLine").css("display", "none")
-      // window.open("http://bbs.asch.io/");
     }),
 
     $(".homeLinks li").mouseout(function () {
@@ -153,74 +172,4 @@ $(document).ready(function () {
       // 同理显示与隐藏
       $(this).parents(".downloadsContainerLeft").find(".dlsit-list li").eq(index).show().siblings().hide();
     })
-    //
-    // $("#application .dapp1").click(function () {
-    //   window.open("dapp1.html");
-    // }),
-    //
-    // $("#applicationDetailMore1").click(function () {
-    //   event.stopPropagation();
-    //   window.open("dapp1.html");
-    // }),
-    //
-    // $("#application .dapp2").click(function () {
-    //   window.open("dapp2.html");
-    // }),
-    //
-    // $("#applicationDetailMore2").click(function () {
-    //   event.stopPropagation();
-    //   window.open("dapp2.html");
-    // }),
-    //
-    // $("#application .dapp3").click(function () {
-    //   window.open("dapp3.html");
-    // }),
-    //
-    // $("#applicationDetailMore3").click(function () {
-    //   event.stopPropagation();
-    //   window.open("dapp3.html");
-    // }),
-    //
-    // $("#application .dapp4").click(function () {
-    //   window.open("dapp4.html");
-    // }),
-    //
-    // $("#applicationDetailMore4").click(function () {
-    //   event.stopPropagation();
-    //   window.open("dapp4.html");
-    // }),
-    //
-    // $("#application .dapp5").click(function () {
-    //   window.open("dapp5.html");
-    // }),
-    //
-    // $("#applicationDetailMore5").click(function () {
-    //   event.stopPropagation();
-    //   window.open("dapp5.html");
-    // }),
-    // $("#application .dapp6").click(function () {
-    //   window.open("dapp6.html");
-    // }),
-    //
-    // $("#applicationDetailMore6").click(function () {
-    //   event.stopPropagation();
-    //   window.open("dapp6.html");
-    // }),
-    // $("#application .dapp7").click(function () {
-    //   window.open("dapp7.html");
-    // }),
-    //
-    // $("#applicationDetailMore7").click(function () {
-    //   event.stopPropagation();
-    //   window.open("dapp7.html");
-    // }),
-    // $("#application .dapp8").click(function () {
-    //   window.open("dapp8.html");
-    // }),
-    //
-    // $("#applicationDetailMore8").click(function () {
-    //   event.stopPropagation();
-    //   window.open("dapp8.html");
-    // })
-
 });
