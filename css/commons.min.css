@@ -139,6 +139,10 @@ nav .navContainer .navRight ul .navLinksContainer .navLinks a:nth-child(2){
     background:#f8a940 ;
 }
 
+nav .navContainer .navRight ul .navLinksContainer:hover .pageStyle{
+    top:76px;
+}
+
 /*switch language begin*/
 
 .switchLanguageBtn {
@@ -176,6 +180,10 @@ nav .navContainer .navRight ul .navLinksContainer .navLinks a:nth-child(2){
 .btnContainer:hover .btn2 {
     opacity: 1;
     top: 42px;
+}
+
+.btnContainer:hover .pageBtnStyle {
+    top: 60px;
 }
 
 .btnContainer .btn2:hover {

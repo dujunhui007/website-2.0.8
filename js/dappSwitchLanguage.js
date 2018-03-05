@@ -325,6 +325,7 @@ function loadProperties(str) {
       $('#nav_timeLine').html($.i18n.prop('string_navtimeLine'));
       $('#nav_partners').html($.i18n.prop('string_navpartners'));
       $('#nav_links').html($.i18n.prop('string_navlinks'));
+      $('#nav_tutorial').html($.i18n.prop('string_navtutorial'));
 
       $('#homeLinksAschCode').html($.i18n.prop('string_homeLinksAschCode'));
       $('#homeLinksAschExplorer').html($.i18n.prop('string_homeLinksAschExplorer'));
